@@ -1,2 +1,2 @@
 # udc-publisher
-Universal Data Collector front-end rest apis backend
+Universal Data Collector configuration and customer servives REST backend
